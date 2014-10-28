@@ -1,0 +1,21 @@
+{
+  "name": "onebackend-js-sdk",
+  "version": "0.0.1",
+  "homepage": "https://github.com/netinel/onebackend-js-sdk",
+  "authors": [
+    "Dmytro <netinel@gmail.com>"
+  ],
+  "description": "Onebackend JS SDK",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine": "~2.0.4"
+  }
+}

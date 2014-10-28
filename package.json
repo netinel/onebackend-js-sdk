@@ -1,0 +1,27 @@
+{
+  "name": "onebackend-js-sdk",
+  "version": "0.0.1",
+  "description": "Onebackend JS SDK",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.6.0",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netinel/onebackend-js-sdk.git"
+  },
+  "author": "Dmytro",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/netinel/onebackend-js-sdk/issues"
+  },
+  "homepage": "https://github.com/netinel/onebackend-js-sdk"
+}
